@@ -1,0 +1,18 @@
+2019-05-16T18:41:56+00:00 CRITICAL Maximum execution time of 1000 seconds exceeded dans C:\xampp\htdocs\arcGroup\wp-includes\pomo\translations.php à la ligne 86
+
+2019-05-16T18:41:57+00:00 CRITICAL Maximum execution time of 1000 seconds exceeded dans C:\xampp\htdocs\arcGroup\wp-content\plugins\contact-form-7\modules\recaptcha.php à la ligne 13
+
+2019-05-16T18:41:57+00:00 CRITICAL Maximum execution time of 1000 seconds exceeded dans C:\xampp\htdocs\arcGroup\wp-includes\rest-api\endpoints\class-wp-rest-controller.php à la ligne 358
+
+2019-05-16T18:43:21+00:00 CRITICAL Maximum execution time of 1000 seconds exceeded dans C:\xampp\htdocs\arcGroup\wp-includes\plugin.php à la ligne 110
+
+2019-05-16T18:43:23+00:00 CRITICAL Maximum execution time of 1000 seconds exceeded dans C:\xampp\htdocs\arcGroup\wp-includes\plugin.php à la ligne 110
+
+2019-05-16T18:43:40+00:00 CRITICAL Maximum execution time of 1000 seconds exceeded dans C:\xampp\htdocs\arcGroup\wp-config.php à la ligne 94
+
+2019-05-16T18:46:51+00:00 CRITICAL Maximum execution time of 1000 seconds exceeded dans C:\xampp\htdocs\arcGroup\wp-content\plugins\js_composer\include\params\iconpicker\iconpicker.php à la ligne 2
+
+2019-05-16T18:56:20+00:00 CRITICAL Maximum execution time of 1000 seconds exceeded dans C:\xampp\htdocs\arcGroup\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-post-types.php à la ligne 9
+
+2019-05-16T19:00:48+00:00 CRITICAL Maximum execution time of 1000 seconds exceeded dans C:\xampp\htdocs\arcGroup\wp-includes\rest-api\endpoints\class-wp-rest-controller.php à la ligne 358
+

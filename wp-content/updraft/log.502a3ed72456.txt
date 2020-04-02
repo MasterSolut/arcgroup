@@ -1,0 +1,405 @@
+0000.001 (0) Opened log file at time: Thu, 16 Jan 2020 21:11:29 +0000 on http://localhost/arcgroup
+0000.055 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.1.33 (apache2handler, Windows NT MARC-PC 10.0 build 18362 (Windows 10) AMD64) MySQL: 10.4.10-MariaDB WPLANG: fr_FR Server: Apache/2.4.41 (Win64) OpenSSL/1.0.2s PHP/7.1.33 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 85.4M | 22M) multisite: N openssl: OpenSSL 1.0.2t  10 Sep 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.129 (0) Free space on disk containing Updraft's temporary directory: 146197.1 MB
+0000.182 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.231 (0) Semaphore (fd, wp_options) being initialised
+0000.447 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.605 (0) Set semaphore last lock (fd) time to 2020-01-16 21:11:29
+0000.629 (0) Semaphore lock (fd) complete
+0000.746 (0) Backup run: resumption=0, nonce=502a3ed72456, file_nonce=502a3ed72456 begun at=1579209089 (0s ago), job type=backup
+0000.817 (0) Scheduling a resumption (1) after 300 seconds (1579209389) in case this run gets aborted
+0001.010 (0) Checking if we have a zip executable available
+0001.113 (0) Creation of backups of directories: beginning
+0001.363 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0013.828 (0) Total entities for the zip file: 823 directories, 6665 files (0 skipped as non-modified), 106.6 MB
+0013.884 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0014.590 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 100 files added (on-disk size: 139.5 KB)
+0016.223 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 200 files added (on-disk size: 139.5 KB)
+0016.981 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 MB, 238 (239) files added so far); re-opening (prior size: 139.5 KB)
+0018.859 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 300 files added (on-disk size: 1585.1 KB)
+0019.987 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.1 MB, 140 (379) files added so far); re-opening (prior size: 1585.1 KB)
+0021.503 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 400 files added (on-disk size: 4271 KB)
+0022.980 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.1 MB, 71 (450) files added so far); re-opening (prior size: 4271 KB)
+0025.480 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 500 files added (on-disk size: 6596.4 KB)
+0026.094 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 72 (522) files added so far); re-opening (prior size: 6596.4 KB)
+0030.011 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 60 (582) files added so far); re-opening (prior size: 7077.7 KB)
+0031.195 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 600 files added (on-disk size: 7276.2 KB)
+0032.891 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 700 files added (on-disk size: 7276.2 KB)
+0032.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 121 (703) files added so far); re-opening (prior size: 7276.2 KB)
+0035.643 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 800 files added (on-disk size: 7357.6 KB)
+0035.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 107 (810) files added so far); re-opening (prior size: 7357.6 KB)
+0038.992 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 89 (899) files added so far); re-opening (prior size: 7574.7 KB)
+0039.281 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 900 files added (on-disk size: 7687.5 KB)
+0041.842 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 1000 files added (on-disk size: 7687.5 KB)
+0041.988 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 115 (1014) files added so far); re-opening (prior size: 7687.5 KB)
+0044.416 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 1100 files added (on-disk size: 8584.1 KB)
+0044.979 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 140 (1154) files added so far); re-opening (prior size: 8584.1 KB)
+0045.642 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 1200 files added (on-disk size: 8793.1 KB)
+0047.251 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 1300 files added (on-disk size: 8793.1 KB)
+0048.024 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 242 (1396) files added so far); re-opening (prior size: 8793.1 KB)
+0049.111 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 1400 files added (on-disk size: 9107.8 KB)
+0050.663 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 1500 files added (on-disk size: 9107.8 KB)
+0051.749 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 1600 files added (on-disk size: 9107.8 KB)
+0051.993 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 220 (1616) files added so far); re-opening (prior size: 9107.8 KB)
+0055.131 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 1700 files added (on-disk size: 9730.7 KB)
+0055.782 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 1800 files added (on-disk size: 9730.7 KB)
+0055.986 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.5 MB, 196 (1812) files added so far); re-opening (prior size: 9730.7 KB)
+0059.611 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 1900 files added (on-disk size: 11318.3 KB)
+0060.982 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 188 (2000) files added so far); re-opening (prior size: 11318.3 KB)
+0061.721 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 2000 files added (on-disk size: 11585.7 KB)
+0064.392 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 38 (2038) files added so far); re-opening (prior size: 11585.7 KB)
+0067.246 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 2100 files added (on-disk size: 11930.9 KB)
+0068.018 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 105 (2143) files added so far); re-opening (prior size: 11930.9 KB)
+0070.981 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 52 (2195) files added so far); re-opening (prior size: 13361.5 KB)
+0071.522 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 2200 files added (on-disk size: 14025.4 KB)
+0073.434 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 2300 files added (on-disk size: 14025.4 KB)
+0074.131 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.2 MB, 155 (2350) files added so far); re-opening (prior size: 14025.4 KB)
+0078.278 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 2400 files added (on-disk size: 15285.6 KB)
+0078.976 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 2500 files added (on-disk size: 15285.6 KB)
+0079.070 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 151 (2501) files added so far); re-opening (prior size: 15285.6 KB)
+0081.316 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 2600 files added (on-disk size: 15967.8 KB)
+0081.912 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 2700 files added (on-disk size: 15967.8 KB)
+0082.696 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 2800 files added (on-disk size: 15967.8 KB)
+0082.993 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 328 (2829) files added so far); re-opening (prior size: 15967.8 KB)
+0084.918 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 2900 files added (on-disk size: 16651.5 KB)
+0085.981 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 156 (2985) files added so far); re-opening (prior size: 16651.5 KB)
+0088.037 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 3000 files added (on-disk size: 17211.8 KB)
+0089.030 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 3100 files added (on-disk size: 17211.8 KB)
+0089.583 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 3200 files added (on-disk size: 17211.8 KB)
+0089.980 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 280 (3265) files added so far); re-opening (prior size: 17211.8 KB)
+0090.677 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 3300 files added (on-disk size: 17403.5 KB)
+0091.427 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 3400 files added (on-disk size: 17403.5 KB)
+0092.809 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 3500 files added (on-disk size: 17403.5 KB)
+0092.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 240 (3505) files added so far); re-opening (prior size: 17403.5 KB)
+0095.839 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 3600 files added (on-disk size: 17503.8 KB)
+0095.998 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 102 (3607) files added so far); re-opening (prior size: 17503.8 KB)
+0097.785 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 3700 files added (on-disk size: 17544.9 KB)
+0098.992 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.3 MB, 146 (3753) files added so far); re-opening (prior size: 17544.9 KB)
+0101.581 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 3800 files added (on-disk size: 19198 KB)
+0102.981 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 125 (3878) files added so far); re-opening (prior size: 19198 KB)
+0107.048 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 3900 files added (on-disk size: 20137.1 KB)
+0108.104 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 4000 files added (on-disk size: 20137.1 KB)
+0108.926 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 4100 files added (on-disk size: 20137.1 KB)
+0109.000 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 223 (4101) files added so far); re-opening (prior size: 20137.1 KB)
+0113.134 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 56 (4157) files added so far); re-opening (prior size: 20644.8 KB)
+0114.961 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 4200 files added (on-disk size: 20899.6 KB)
+0115.370 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 4300 files added (on-disk size: 20899.6 KB)
+0115.945 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 4400 files added (on-disk size: 20899.6 KB)
+0116.166 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 4500 files added (on-disk size: 20899.6 KB)
+0116.467 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 4600 files added (on-disk size: 20899.6 KB)
+0117.080 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (18.8 MB, 444 (4601) files added so far); re-opening (prior size: 20899.6 KB)
+0122.860 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 4700 files added (on-disk size: 26200.2 KB)
+0123.286 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 4800 files added (on-disk size: 26200.2 KB)
+0123.715 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 4900 files added (on-disk size: 26200.2 KB)
+0124.097 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 5000 files added (on-disk size: 26200.2 KB)
+0124.306 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 5100 files added (on-disk size: 26200.2 KB)
+0124.352 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 6665 files batched, 501 (5102) added so far); re-opening (prior size: 26200.2 KB)
+0125.947 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 5200 files added (on-disk size: 26919.5 KB)
+0126.084 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 5300 files added (on-disk size: 26919.5 KB)
+0126.244 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 5400 files added (on-disk size: 26919.5 KB)
+0126.411 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 5500 files added (on-disk size: 26919.5 KB)
+0127.921 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 5600 files added (on-disk size: 26919.5 KB)
+0128.021 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.4 MB, 499 (5601) files added so far); re-opening (prior size: 26919.5 KB)
+0134.214 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 5700 files added (on-disk size: 27893.2 KB)
+0134.998 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (19.3 MB, 149 (5750) files added so far); re-opening (prior size: 27893.2 KB)
+0145.979 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 50 (5800) files added so far); re-opening (prior size: 32082.6 KB)
+0149.056 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 5800 files added (on-disk size: 32259.5 KB)
+0152.179 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 18 (5818) files added so far); re-opening (prior size: 32259.5 KB)
+0155.152 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 5900 files added (on-disk size: 32518.7 KB)
+0155.926 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 6000 files added (on-disk size: 32518.7 KB)
+0155.981 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 190 (6008) files added so far); re-opening (prior size: 32518.7 KB)
+0158.968 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 6100 files added (on-disk size: 33047.2 KB)
+0159.702 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 6200 files added (on-disk size: 33047.2 KB)
+0160.303 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 6300 files added (on-disk size: 33047.2 KB)
+0161.007 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.9 MB, 346 (6354) files added so far); re-opening (prior size: 33047.2 KB)
+0163.489 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 6400 files added (on-disk size: 34014.6 KB)
+0163.951 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 6500 files added (on-disk size: 34014.6 KB)
+0164.663 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip.tmp: 6600 files added (on-disk size: 34014.6 KB)
+0167.903 (0) Created plugins zip (0) - 34592.4 KB in 166.4 s (207.9 KB/s) (sha1: f3076a8b19fa814f2edb23b8b31376b43d3e2853, sha256: b743872da2b0c1b785a5f2140faccbe4c71156aa0049a425792e8a2a95946067)
+0168.062 (0) Beginning creation of dump of themes (split every: 400 MB)
+0169.351 (0) Total entities for the zip file: 160 directories, 701 files (0 skipped as non-modified), 28.3 MB
+0169.994 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0170.762 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0170.981 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.3 MB, 210 (210) files added so far); re-opening (prior size: 0 KB)
+0173.229 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-themes.zip.tmp: 300 files added (on-disk size: 3629.4 KB)
+0173.961 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-themes.zip.tmp: 400 files added (on-disk size: 3629.4 KB)
+0174.547 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-themes.zip.tmp: 500 files added (on-disk size: 3629.4 KB)
+0174.991 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (19.7 MB, 368 (578) files added so far); re-opening (prior size: 3629.4 KB)
+0177.514 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-themes.zip.tmp: 600 files added (on-disk size: 20820.5 KB)
+0178.314 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-themes.zip.tmp: 700 files added (on-disk size: 20820.5 KB)
+0179.694 (0) Created themes zip (0) - 22428.8 KB in 11.3 s (1980.6 KB/s) (sha1: 1c8de8d539527d2ee642a74ee0398d4f9e55ca0c, sha256: 3f423abe33445f07a617ab65ae38970e60247b160347cdc84de07afd2e93eebc)
+0179.956 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0180.062 (0) Looking for candidates to backup in: C:\xampp\htdocs\arcgroup/wp-content/uploads
+0180.096 (0) finding files: 2013: adding to list (1)
+0180.146 (0) finding files: 2015: adding to list (2)
+0180.187 (0) finding files: 2019: adding to list (3)
+0180.229 (0) finding files: 2020: adding to list (4)
+0180.271 (0) finding files: bws-custom-code: adding to list (5)
+0180.346 (0) finding files: GeoLite2-Country.mmdb: adding to list (6)
+0180.404 (0) finding files: js_composer: adding to list (7)
+0180.446 (0) finding files: revslider: adding to list (8)
+0180.496 (0) finding files: ultimatemember: adding to list (9)
+0180.547 (0) finding files: wc-logs: adding to list (10)
+0180.595 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (11)
+0180.637 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (12)
+0180.679 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (13)
+0180.739 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (14)
+0180.795 (0) finding files: woocommerce-placeholder-400x200.png: adding to list (15)
+0180.838 (0) finding files: woocommerce-placeholder-600x300.png: adding to list (16)
+0180.921 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (17)
+0180.987 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (18)
+0181.090 (0) finding files: woocommerce-placeholder-800x400.png: adding to list (19)
+0181.129 (0) finding files: woocommerce-placeholder.png: adding to list (20)
+0181.187 (0) finding files: woocommerce_uploads: adding to list (21)
+0181.212 (0) finding files: wpcf7_uploads: adding to list (22)
+0181.255 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0186.577 (0) Total entities for the zip file: 405 directories, 1782 files (0 skipped as non-modified), 54.2 MB
+0186.636 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0187.603 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 100 files added (on-disk size: 71.8 KB)
+0189.017 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.1 MB, 190 (191) files added so far); re-opening (prior size: 71.8 KB)
+0189.907 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 200 files added (on-disk size: 9434 KB)
+0191.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.6 MB, 63 (254) files added so far); re-opening (prior size: 9434 KB)
+0193.941 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 300 files added (on-disk size: 13145.3 KB)
+0194.987 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.4 MB, 135 (389) files added so far); re-opening (prior size: 13145.3 KB)
+0196.173 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 400 files added (on-disk size: 20712.1 KB)
+0197.242 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 500 files added (on-disk size: 20712.1 KB)
+0197.985 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8.3 MB, 165 (554) files added so far); re-opening (prior size: 20712.1 KB)
+0200.123 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 600 files added (on-disk size: 29227.8 KB)
+0200.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 102 (656) files added so far); re-opening (prior size: 29227.8 KB)
+0205.103 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 700 files added (on-disk size: 32086.2 KB)
+0205.998 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 103 (759) files added so far); re-opening (prior size: 32086.2 KB)
+0206.815 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 800 files added (on-disk size: 34209.2 KB)
+0208.998 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 71 (830) files added so far); re-opening (prior size: 34209.2 KB)
+0213.700 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 900 files added (on-disk size: 37109.5 KB)
+0214.885 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 1000 files added (on-disk size: 37109.5 KB)
+0214.989 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (10.6 MB, 180 (1010) files added so far); re-opening (prior size: 37109.5 KB)
+0220.570 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 1100 files added (on-disk size: 46173.9 KB)
+0221.267 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 1200 files added (on-disk size: 46173.9 KB)
+0221.625 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 1300 files added (on-disk size: 46173.9 KB)
+0222.712 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 1400 files added (on-disk size: 46173.9 KB)
+0222.989 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.2 MB, 455 (1465) files added so far); re-opening (prior size: 46173.9 KB)
+0227.416 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 1500 files added (on-disk size: 50512.1 KB)
+0227.823 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 1600 files added (on-disk size: 50512.1 KB)
+0228.140 (0) Zip: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip.tmp: 1700 files added (on-disk size: 50512.1 KB)
+0232.580 (0) Created uploads zip (0) - 53971.4 KB in 51.3 s (1052.2 KB/s) (sha1: e68c880de1d924d4ef47c2391c0af54b1948500a, sha256: 6838f3beea4c58b45ea3a914089314a712e7db8f1864467cb848caeca691fd15)
+0232.670 (0) Beginning backup of other directories found in the content directory (index: 0)
+0232.704 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0232.745 (0) Looking for candidates to backup in: C:\xampp\htdocs\arcgroup/wp-content
+0232.780 (0) finding files: index.php: adding to list (1)
+0232.821 (0) finding files: languages: adding to list (2)
+0232.854 (0) finding files: plugins: skipping: this is the plugins directory
+0232.879 (0) finding files: themes: skipping: this is the themes directory
+0232.912 (0) finding files: updraft: skipping: this is the updraft directory
+0232.946 (0) finding files: upgrade: skipping: excluded by options
+0232.962 (0) finding files: uploads: skipping: this is the uploads directory
+0232.995 (0) finding files: wp-content: adding to list (3)
+0233.125 (0) Total entities for the zip file: 4 directories, 49 files (0 skipped as non-modified), 4.8 MB
+0234.581 (0) Created others zip (0) - 1348.6 KB in 1.5 s (872.8 KB/s) (sha1: a580f0d3632d4339051fdc86d0de8d53f5425c29, sha256: 81ae795963d66f1bd6781618934bb5df3e14cb4d83f1fffdbe701ea743406813)
+0234.797 (0) Saving backup status to database (elements: 8)
+0234.910 (0) Beginning creation of database dump (WordPress DB)
+0235.376 (0) Table wp_options: Total expected rows (approximate): 412
+0235.659 (0) Table wp_options: Total rows added: 415 in 0.23 seconds
+0235.705 (0) Table wp_options: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_options.table.gz - 173.4 KB)
+0235.826 (0) Table wp_users: Total expected rows (approximate): 0
+0235.891 (0) Table wp_users: Total rows added: 1 in 0.03 seconds
+0235.932 (0) Table wp_users: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_users.table.gz - 0.6 KB)
+0236.086 (0) Table wp_usermeta: Total expected rows (approximate): 30
+0236.191 (0) Table wp_usermeta: Total rows added: 30 in 0.02 seconds
+0236.255 (0) Table wp_usermeta: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_usermeta.table.gz - 1.4 KB)
+0236.444 (0) Table wp_commentmeta: Total expected rows (approximate): 121
+0236.544 (0) Table wp_commentmeta: Total rows added: 121 in 0.06 seconds
+0236.596 (0) Table wp_commentmeta: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_commentmeta.table.gz - 1.1 KB)
+0236.758 (0) Table wp_comments: Total expected rows (approximate): 26
+0236.824 (0) Table wp_comments: Total rows added: 26 in 0.04 seconds
+0236.849 (0) Table wp_comments: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_comments.table.gz - 2.5 KB)
+0237.010 (0) Table wp_links: Total expected rows (approximate): 0
+0237.080 (0) Table wp_links: Total rows added: 0 in 0.04 seconds
+0237.116 (0) Table wp_links: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_links.table.gz - 0.4 KB)
+0237.333 (0) Table wp_postmeta: Total expected rows (approximate): 4171
+0237.809 (0) Table wp_postmeta: Total rows added: 4433 in 0.38 seconds
+0237.855 (0) Table wp_postmeta: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_postmeta.table.gz - 49.5 KB)
+0237.978 (0) Table wp_posts: Total expected rows (approximate): 436
+0238.372 (0) Table wp_posts: Total rows added: 459 in 0.35 seconds
+0238.399 (0) Table wp_posts: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_posts.table.gz - 57.2 KB)
+0238.564 (0) Table wp_term_relationships: Total expected rows (approximate): 245
+0238.713 (0) Table wp_term_relationships: Total rows added: 245 in 0.11 seconds
+0238.790 (0) Table wp_term_relationships: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_term_relationships.table.gz - 1 KB)
+0238.937 (0) Table wp_term_taxonomy: Total expected rows (approximate): 68
+0239.063 (0) Table wp_term_taxonomy: Total rows added: 68 in 0.08 seconds
+0239.124 (0) Table wp_term_taxonomy: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_term_taxonomy.table.gz - 0.9 KB)
+0239.332 (0) Table wp_termmeta: Total expected rows (approximate): 17
+0239.398 (0) Table wp_termmeta: Total rows added: 17 in 0.03 seconds
+0239.439 (0) Table wp_termmeta: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_termmeta.table.gz - 0.5 KB)
+0239.642 (0) Table wp_terms: Total expected rows (approximate): 68
+0239.703 (0) Table wp_terms: Total rows added: 68 in 0.03 seconds
+0239.739 (0) Table wp_terms: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_terms.table.gz - 1.2 KB)
+0239.928 (0) Table wp_wc_product_meta_lookup: Total expected rows (approximate): 1
+0240.017 (0) Table wp_wc_product_meta_lookup: Total rows added: 1 in 0.05 seconds
+0240.065 (0) Table wp_wc_product_meta_lookup: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_wc_product_meta_lookup.table.gz - 0.5 KB)
+0240.209 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0240.450 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.06 seconds
+0240.533 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0240.979 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0241.079 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.05 seconds
+0241.164 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0241.344 (0) Table wp_eg_grids: Total expected rows (approximate): 37
+0241.445 (0) Table wp_eg_grids: Total rows added: 37 in 0.07 seconds
+0241.508 (0) Table wp_eg_grids: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_eg_grids.table.gz - 4.5 KB)
+0241.809 (0) Table wp_eg_item_elements: Total expected rows (approximate): 0
+0241.921 (0) Table wp_eg_item_elements: Total rows added: 1 in 0.03 seconds
+0242.000 (0) Table wp_eg_item_elements: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_eg_item_elements.table.gz - 1 KB)
+0242.196 (0) Table wp_eg_item_skins: Total expected rows (approximate): 73
+0242.546 (0) Table wp_eg_item_skins: Total rows added: 101 in 0.30 seconds
+0242.587 (0) Table wp_eg_item_skins: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_eg_item_skins.table.gz - 42 KB)
+0243.175 (0) Table wp_eg_navigation_skins: Total expected rows (approximate): 18
+0243.650 (0) Table wp_eg_navigation_skins: Total rows added: 18 in 0.17 seconds
+0243.690 (0) Table wp_eg_navigation_skins: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_eg_navigation_skins.table.gz - 5.8 KB)
+0243.959 (0) Table wp_gglcptch_whitelist: Total expected rows (approximate): 0
+0244.057 (0) Table wp_gglcptch_whitelist: Total rows added: 0 in 0.05 seconds
+0244.105 (0) Table wp_gglcptch_whitelist: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_gglcptch_whitelist.table.gz - 0.3 KB)
+0244.326 (0) Table wp_revslider_css: Total expected rows (approximate): 113
+0244.529 (0) Table wp_revslider_css: Total rows added: 113 in 0.16 seconds
+0244.580 (0) Table wp_revslider_css: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_revslider_css.table.gz - 5.1 KB)
+0244.749 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0244.807 (0) Table wp_revslider_layer_animations: Total rows added: 0 in 0.03 seconds
+0244.856 (0) Table wp_revslider_layer_animations: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_revslider_layer_animations.table.gz - 0.3 KB)
+0245.069 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0245.229 (0) Table wp_revslider_navigations: Total rows added: 0 in 0.02 seconds
+0245.288 (0) Table wp_revslider_navigations: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_revslider_navigations.table.gz - 0.3 KB)
+0245.410 (0) Table wp_revslider_sliders: Total expected rows (approximate): 0
+0245.515 (0) Table wp_revslider_sliders: Total rows added: 1 in 0.03 seconds
+0245.582 (0) Table wp_revslider_sliders: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_revslider_sliders.table.gz - 2.9 KB)
+0245.732 (0) Table wp_revslider_slides: Total expected rows (approximate): 3
+0245.901 (0) Table wp_revslider_slides: Total rows added: 3 in 0.05 seconds
+0245.964 (0) Table wp_revslider_slides: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_revslider_slides.table.gz - 5.2 KB)
+0246.161 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 0
+0246.325 (0) Table wp_revslider_static_slides: Total rows added: 0 in 0.14 seconds
+0246.692 (0) Table wp_revslider_static_slides: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_revslider_static_slides.table.gz - 0.3 KB)
+0246.875 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0246.948 (0) Table wp_wc_download_log: Total rows added: 0 in 0.04 seconds
+0247.007 (0) Table wp_wc_download_log: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0247.155 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0247.222 (0) Table wp_wc_webhooks: Total rows added: 0 in 0.02 seconds
+0247.275 (0) Table wp_wc_webhooks: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0247.452 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0247.527 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.03 seconds
+0247.571 (0) Table wp_woocommerce_api_keys: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0247.743 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0247.823 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 1 in 0.04 seconds
+0247.886 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0248.108 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0248.215 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.06 seconds
+0248.296 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0248.955 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0249.026 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.03 seconds
+0249.085 (0) Table wp_woocommerce_log: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0249.328 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0249.439 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.03 seconds
+0249.485 (0) Table wp_woocommerce_order_items: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_order_items.table.gz - 0.3 KB)
+0249.593 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0249.649 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.03 seconds
+0249.689 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0249.808 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0249.868 (0) Table wp_woocommerce_sessions: Total rows added: 1 in 0.03 seconds
+0249.897 (0) Table wp_woocommerce_sessions: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_sessions.table.gz - 0.8 KB)
+0250.006 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0250.094 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.05 seconds
+0250.140 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0250.245 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0250.330 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.06 seconds
+0250.365 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0250.760 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0251.030 (0) Table wp_woocommerce_shipping_zones: Total rows added: 0 in 0.11 seconds
+0251.063 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0251.166 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0251.223 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.03 seconds
+0251.259 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0251.339 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0251.399 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.01 seconds
+0251.430 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0251.509 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_options.table.gz (1/40): adding to final database dump
+0251.592 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_users.table.gz (2/40): adding to final database dump
+0251.613 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_usermeta.table.gz (3/40): adding to final database dump
+0251.637 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_commentmeta.table.gz (4/40): adding to final database dump
+0251.705 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_comments.table.gz (5/40): adding to final database dump
+0251.773 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_links.table.gz (6/40): adding to final database dump
+0251.805 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_postmeta.table.gz (7/40): adding to final database dump
+0251.911 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_posts.table.gz (8/40): adding to final database dump
+0252.030 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_term_relationships.table.gz (9/40): adding to final database dump
+0252.112 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_term_taxonomy.table.gz (10/40): adding to final database dump
+0252.154 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_termmeta.table.gz (11/40): adding to final database dump
+0252.179 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_terms.table.gz (12/40): adding to final database dump
+0252.206 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_wc_product_meta_lookup.table.gz (13/40): adding to final database dump
+0252.254 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_order_itemmeta.table.gz (14/40): adding to final database dump
+0252.273 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_payment_tokenmeta.table.gz (15/40): adding to final database dump
+0252.296 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_eg_grids.table.gz (16/40): adding to final database dump
+0252.328 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_eg_item_elements.table.gz (17/40): adding to final database dump
+0252.355 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_eg_item_skins.table.gz (18/40): adding to final database dump
+0252.465 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_eg_navigation_skins.table.gz (19/40): adding to final database dump
+0252.491 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_gglcptch_whitelist.table.gz (20/40): adding to final database dump
+0252.513 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_revslider_css.table.gz (21/40): adding to final database dump
+0252.563 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_revslider_layer_animations.table.gz (22/40): adding to final database dump
+0252.587 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_revslider_navigations.table.gz (23/40): adding to final database dump
+0252.623 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_revslider_sliders.table.gz (24/40): adding to final database dump
+0252.656 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_revslider_slides.table.gz (25/40): adding to final database dump
+0252.738 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_revslider_static_slides.table.gz (26/40): adding to final database dump
+0252.864 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_wc_download_log.table.gz (27/40): adding to final database dump
+0252.922 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_wc_webhooks.table.gz (28/40): adding to final database dump
+0252.964 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_api_keys.table.gz (29/40): adding to final database dump
+0253.005 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_attribute_taxonomies.table.gz (30/40): adding to final database dump
+0253.031 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (31/40): adding to final database dump
+0253.055 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_log.table.gz (32/40): adding to final database dump
+0253.081 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_order_items.table.gz (33/40): adding to final database dump
+0253.130 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_payment_tokens.table.gz (34/40): adding to final database dump
+0253.213 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_sessions.table.gz (35/40): adding to final database dump
+0253.256 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_shipping_zone_locations.table.gz (36/40): adding to final database dump
+0253.305 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_shipping_zone_methods.table.gz (37/40): adding to final database dump
+0253.398 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_shipping_zones.table.gz (38/40): adding to final database dump
+0253.454 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_tax_rate_locations.table.gz (39/40): adding to final database dump
+0253.479 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db-table-wp_woocommerce_tax_rates.table.gz (40/40): adding to final database dump
+0253.547 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db.gz: finished writing out complete database file (344 KB)
+0253.695 (0) Total database tables backed up: 40 (backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db.gz, size: 363538, sha1: 2483b5f959a2499cc5bd9611187b6b5087e563da, sha256: f91148681783d4fe3f82314ca35f53f3e538afcce5b4e766fdc8ef7ead4e9dc3)
+0253.914 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0253.955 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0253.980 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0254.005 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-others.zip: others: This file has not yet been successfully uploaded: will queue
+0254.030 (0) backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db.gz: db: This file has not yet been successfully uploaded: will queue
+0254.054 (0) Saving backup history. Total backup size: 110.1 MB
+0254.104 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0254.212 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0254.237 (0) No remote despatch: user chose no remote backup service
+0254.263 (0) Recording as successfully uploaded: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-plugins.zip
+0254.321 (0) Recording as successfully uploaded: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-themes.zip
+0254.371 (0) Recording as successfully uploaded: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-uploads.zip
+0254.438 (0) Recording as successfully uploaded: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-others.zip
+0254.546 (0) Recording as successfully uploaded: backup_2020-01-16-2211_ARCGROUP_502a3ed72456-db.gz
+0254.680 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0254.738 (0) Number of backup sets in history: 3; groups (db): 1
+0254.795 (0) Examining (for databases) backup set with group_id=0, nonce=502a3ed72456, datestamp=1579209089 (Jan 16 2020 21:11:29)
+0254.820 (0) This backup set is the backup set just made, so will not be deleted.
+0254.820 (0) Examining (for databases) backup set with group_id=0, nonce=fe131497a4fa, datestamp=1559307066 (May 31 2019 12:51:06)
+0254.820 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0254.845 (0) Examining (for databases) backup set with group_id=0, nonce=3cd9221c730e, datestamp=1558393574 (May 20 2019 23:06:14)
+0254.845 (0) 1558393574: db: this set includes a database (backup_2019-05-21-0106_ARCGROUP_3cd9221c730e-db.gz); db count is now 2
+0254.845 (0) 1558393574: db: over retain limit (2); will delete this database
+0254.845 (0) Delete file: backup_2019-05-21-0106_ARCGROUP_3cd9221c730e-db.gz, service=none
+0255.157 (0) Deleting local copy (backup_2019-05-21-0106_ARCGROUP_3cd9221c730e-db.gz)
+0255.254 (0) This backup set is now empty; will remove from history
+0255.273 (0) Deleting log file (log.3cd9221c730e.txt)
+0255.313 (0) Number of backup sets in history: 2; groups (files): 1
+0255.354 (0) Examining (for files) backup set with nonce=502a3ed72456, datestamp=1579209089 (Jan 16 2020 21:11:29)
+0255.354 (0) This backup set is the backup set just made, so will not be deleted.
+0255.379 (0) This backup set is the backup set just made, so will not be deleted.
+0255.380 (0) This backup set is the backup set just made, so will not be deleted.
+0255.381 (0) This backup set is the backup set just made, so will not be deleted.
+0255.382 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0255.421 (0) Examining (for files) backup set with nonce=fe131497a4fa, datestamp=1559307066 (May 31 2019 12:51:06)
+0255.421 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0255.462 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0255.603 (0) Resume backup (502a3ed72456, 0): finish run
+0255.704 (0) Decremented the semaphore (fd) by 1
+0255.771 (0) Semaphore (fd) unlocked
+0255.813 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0255.981 (0) The backup apparently succeeded and is now complete
+0256.014 (0) No email will/can be sent - the user has not configured an email address.
+0256.046 (0) La sauvegarde a réussie. Elle est maintenant terminée.
